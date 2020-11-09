@@ -10,7 +10,3 @@ def get_quote():
         chosen_row = random.choice(list(reader))
         print(f'{chosen_row["quote"]}\n— {chosen_row["poem title"]}, {chosen_row["poet name"]}\n{chosen_row["published in"]}')
         
-
-get_quote()
-   
-
