@@ -17,5 +17,6 @@ api = tweepy.API(auth)
 
 while True:
     status = get_quote()
+    print(status)
     api.update_status(status)
     time.sleep(INTERVAL)
