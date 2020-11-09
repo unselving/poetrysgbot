@@ -11,7 +11,6 @@ auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
 api = tweepy.API(auth)
 
 while True:
-    print("about to get ad...")
-    ad = get_ad()
-    api.update_status(ad)
+    quote = get_quote()
+    api.update_status(quote)
     time.sleep(INTERVAL)
