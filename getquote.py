@@ -1,8 +1,5 @@
 
 import random
-import time
-import sys
-import tweepy
 import csv
 
 def get_quote():

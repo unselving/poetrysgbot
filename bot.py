@@ -1,5 +1,6 @@
   
 import tweepy
+import time
 from getquote import get_quote
 
 from os import environ
