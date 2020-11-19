@@ -4,7 +4,7 @@ PoetrySGBot is a Twitter bot that tweets quotes from Singaporean poets every 6 h
 
 ## Why PoetrySGBot?
 
-I'm a big fan of literary bots like @VitaVirginiaBot and @carsonbot that inject a bit of poetry and magic into the endless doomscrolling. Inspired by them, I wanted to make a bot that showcased Singaporean poets (I am Singaporean). I started out with a different bot that just tweeted one poet. Now, with support from the fine folks at poetry.sg and SingLitStation, this bot runs off a spreadsheet of quotes from 70+ poets.
+I'm a big fan of literary bots like @VitaVirginiaBot and @carsonbot that inject a bit of poetry and magic into the endless doomscrolling. Inspired by them, I wanted to make a bot that showcased Singaporean poets (I am Singaporean). I started out with a different bot that just tweeted one poet. Now, with support from the fine folks at www.poetry.sg and SingLitStation, this bot runs off a spreadsheet of quotes from 70+ poets.
 
 ## How PoetrySGBot?
 
