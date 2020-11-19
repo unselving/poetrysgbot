@@ -1,6 +1,6 @@
 # poetrysgbot
 
-PoetrySGBot is a Twitter bot that tweets quotes from Singaporean poets every 6 hours. You can find it at twitter.com/poetrysgbot.
+PoetrySGBot is a Twitter bot that tweets quotes from Singaporean poets every 6 hours. You can find it at www.twitter.com/poetrysgbot.
 
 ## Why PoetrySGBot?
 
