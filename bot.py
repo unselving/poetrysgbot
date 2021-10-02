@@ -3,7 +3,6 @@
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import random
-import nltk
 import syllables
 from profanity_filter import ProfanityFilter
 from shareplum import Site
