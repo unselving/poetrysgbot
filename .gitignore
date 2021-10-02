@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#google service account credentials
+ah-huat-the-festival-bot-e579a2f000c0.json
